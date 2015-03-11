@@ -1,5 +1,5 @@
 # blogsiteusingYii1.1.6
-BlogSample
+BlogSample http://shanediaz.koding.io/project101/site/blog/
 
 Blog entries list. This should be the home page.
 Post a Blog entry.
